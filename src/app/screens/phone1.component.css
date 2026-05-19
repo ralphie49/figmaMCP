@@ -1,0 +1,44 @@
+.phone1 {
+  background: #fff;
+  padding: 24px;
+  border-radius: 24px;
+  max-width: 393px;
+  margin: 0 auto;
+  font-family: 'Sen', sans-serif;
+}
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.logo {
+  font-size: 20px;
+  font-weight: 700;
+}
+.subtitle {
+  font-size: 16px;
+  color: #252525;
+  margin: 16px 0;
+}
+.option-bar {
+  display: flex;
+  gap: 16px;
+  margin-bottom: 24px;
+}
+.frappuccino {
+  background: #55A166;
+  border-radius: 105px;
+  padding: 32px 0 0 0;
+  margin-bottom: 24px;
+  text-align: center;
+}
+.frappuccino-title {
+  font-size: 20px;
+  font-weight: 700;
+  color: #000;
+}
+.frappuccino-price {
+  font-size: 20px;
+  font-weight: 700;
+  color: #000;
+}
