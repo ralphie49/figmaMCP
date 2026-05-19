@@ -198,3 +198,7 @@ figma-ui-gen/
 - **Regenerate your API key** after it gets exposed anywhere (chat, screenshot, etc.)
 - **node_modules is never pushed** — always run `npm install` after cloning
 - **Images need the `output: "assets"` fix** in `angular.json` for Angular 17+ projects
+
+https://www.figma.com/community/file/1201418433329014860
+
+491meghu@gmail.com
